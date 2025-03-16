@@ -1,4 +1,4 @@
-# DCGAN-Project
+
 # DCGAN for Animal Faces HQ (AFHQ) Dataset
 
 ## Project Overview
@@ -38,21 +38,7 @@ Key features of the architecture:
 - PIL
 - tqdm
 
-## Running the Code
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/dcgan-afhq.git
-   cd dcgan-afhq
-   ```
-2. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```sh
-   python train.py
-   ```
-4. Generated images will be saved in the `results/` directory.
+
 
 ## Results
 During training, generated images improve progressively. The discriminator learns to differentiate between real and fake images, while the generator refines its outputs to produce high-quality animal faces.
