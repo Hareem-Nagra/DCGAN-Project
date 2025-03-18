@@ -4,6 +4,7 @@
 ## Project Overview
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) in PyTorch using the Animal Faces HQ (AFHQ) dataset. The goal is to generate realistic images of animal faces by training a GAN with convolutional layers and batch normalization.
 
+The link to the image generation app: http://localhost:8501/
 ## Dataset
 The AFHQ dataset consists of high-quality images of animal faces categorized into three classes:
 - Cats
